@@ -5,7 +5,7 @@
 <?php
 
 /* $Id:       index.php 2024/05/01 $*/
-/* Author:    BSC                  $*/
+/* Author:    MAMS                  $*/
 /* $Revision: 2024-1.0             $*/
 
 $PageSecurity = 1;
