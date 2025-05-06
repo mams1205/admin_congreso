@@ -1,3 +1,4 @@
+# Software desarrollado para la Sociedad Mexicana de MAstozoologia marina (SOMEMMA) www.resumen-somemma.com
 # 🎓 Sistema de Administración de Congreso
 
 Este repositorio contiene los archivos necesarios para la **página web de un congreso académico**, así como herramientas para la **gestión administrativa de trabajos sometidos**, **consultas a base de datos SQL** y generación de **reportes estadísticos**.
